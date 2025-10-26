@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/iAscension-id/iAscension-id/blob/main/A_professional_digital_banner_features_Ibrahima_DI.png" width="100%" alt="iAscension Banner"/>
+</p>
 # 👋 Bonjour, je suis **Ibrahima DIAGOURAGA**
 
 🎯 Étudiant en **Intelligence Artificielle** chez [Simplon.co](https://simplon.co)  
